@@ -1,4 +1,3 @@
-import Planimetry.*;
 import Stereometry.*;
 
 public class Main {

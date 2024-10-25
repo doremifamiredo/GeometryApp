@@ -24,6 +24,11 @@
             <artifactId>Stereometry</artifactId>
             <version>1.0</version>
         </dependency>
+        <dependency>
+            <groupId>geometry</groupId>
+            <artifactId>Planimetry</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
 </project>
